@@ -9,6 +9,8 @@
 | 17-03-17      | Linux Containers | Alberto ? | date: tbc, speaker: tbc  |
 | 17-03-24      | nginx        | ?   | date: tbc, speaker: tbc  |
 | 17-03-31      | Raspberry Pi  | Joe ?    | date: tbc, speaker: tbc  |
-| 17-04-02      | no meetup, qingming holiday | ---| ---     |
-| 17-04-09      | MariaDB/SQL basics  | ?   | date: tbc, speaker: tbc  |
-| 17-04-16      | btrfs        | ?   | date: tbc, speaker: tbc  |
+| 17-04-07      | MariaDB/SQL basics  | ?   | date: tbc, speaker: tbc  |
+| 17-04-14      | Android Security / LineageOS ?  | ?   | date: tbc, speaker: tbc  |
+| 17-04-21      | btrfs        | ?   | date: tbc, speaker: tbc  |
+| 17-04-28      | tbc        | ?   | date: tbc, speaker: tbc  |
+| 17-05-05      | tbc        | ?   | date: tbc, speaker: tbc  |
