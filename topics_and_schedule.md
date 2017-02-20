@@ -13,4 +13,4 @@
 | 17-04-14      | Android Security / LineageOS ?  | ?   | date: tbc, speaker: tbc  |
 | 17-04-21      | btrfs        | ?   | date: tbc, speaker: tbc  |
 | 17-04-28      | owncloud     | ?   | date: tbc, speaker: tbc  |
-| 17-05-05      | docker 4 dumies  | ?   | date: tbc, speaker: tbc  |
+| 17-05-05      | docker 4 dmmmies  | ?   | date: tbc, speaker: tbc  |
