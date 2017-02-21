@@ -1,4 +1,6 @@
-# Shanghai-Linux-Meetup
+
+
+# Shanghai-Linux-Meetup: ![Ccpenguin](https://github.com/vrms/Shanghai-Linux-Meetup/blob/master/assets/Ccpenguin%2C_the_ancestor_of_Tux80x111.png "Ccpenguin the ancestor of Tux")
 
 - The [**Shanghai Linux & Open Source Meetup**](https://www.meetup.com/Shanghai-Linux-Meetup) is planned to be held weekly at Shanghai's one and only [**#Coderbunker**](https://coderbunker.com/about) as a series of Workshop-style events.
 - We will have an introduction or talk to the topic of the week plus hopefully a vibrant `do-it-yourself` kind of hands on workshop where the projects or matters presented can be applied practically (on a virtual machine or a cloud server). The character of the talks will most likely be pretty casual and not all too fancy.
