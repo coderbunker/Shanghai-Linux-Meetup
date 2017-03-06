@@ -12,7 +12,6 @@
 | 17-02-24      | Streisand     | Lukas    | done, awesome     |https://www.meetup.com/Shanghai-Linux-Meetup/events/237645001/
 |...            | planned topics below | tbc | open  |                   
 |        | Linux Containers | Alberto  | speaker: confirmed, date tbc (Mar 24th @albertogalan?)  |
-|        | pfSense      | Raul | date: tbc  |
 |        | nginx        | ?   | date: tbc, speaker: tbc  |
 |        | MariaDB/SQL basics  | ?   | date: tbc, speaker: tbc  |
 |        | Android Security / LineageOS ?  | ?   | date: tbc, speaker: tbc  |
