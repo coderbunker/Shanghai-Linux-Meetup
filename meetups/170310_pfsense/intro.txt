@@ -1,0 +1,12 @@
+Topic: pfSense
+
+Speaker: Raul (R.R.)
+
+Raul is the Chef @ #Coderbunker. He's fantastic at feeding crowds of hungry code geeks and, when not busy in the kitchen, manages
+the network here at the bunker. pfSense is the tool of choice for that. Let's see what R.R. has on the menu for us.
+
+Intro: (thanks @wikipedia) pfSense (https://www.pfsense.org/) is an open source firewall/router computer software distribution based on FreeBSD.
+It is installed on a physical computer or a virtual machine to creat a dedicated firewall/router for a network and has been noted for its reliability and feature richness. pfSense can be configured and upgraded through a web-based interface, and requires no knowledge of the underlying FreeBSD system to manage.
+It is commonly deployed as a perimeter firewall, router, wireless access point, DHCP server, DNS server, and as a VPN endpoint.
+pfSense supports installation of many third-party packages (like Snort or Squid) through its (GUI) Package Manager.
+As of 2016 pfSense is described by servethehome.com as the "gold standard" for open source network appliances in its buyer guides.
