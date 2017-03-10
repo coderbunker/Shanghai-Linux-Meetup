@@ -13,7 +13,7 @@
 |...            | planned topics below | tbc | open  |                   
 |        | nginx        | ?   | date: tbc, speaker: tbc  |
 |        | MariaDB/SQL basics  | ?   | date: tbc, speaker: tbc  |
-|        | Ansible      | Alberto Galan |           | speaker: confirmed, date: tbc |
+|        | Ansible      | Alberto Galan | speaker: confirmed, date: tbc |
 |        | Android Security / LineageOS ?  | ?   | date: tbc, speaker: tbc  |
 |        | btrfs        | ?   | date: tbc, speaker: tbc  |
 |        | owncloud     | ?   | date: tbc, speaker: tbc  |
