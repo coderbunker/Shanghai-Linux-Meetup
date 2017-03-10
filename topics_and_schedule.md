@@ -10,7 +10,7 @@
 | 17-03-10      | pfSense      | Raul | confirmed  | https://www.meetup.com/Shanghai-Linux-Meetup/events/238109581/
 | 17-03-03      | the ABCDE of securing a server | Luc | done, fabulous | https://www.meetup.com/Shanghai-Linux-Meetup/events/237752035/
 | 17-02-24      | Streisand     | Lukas    | done, awesome     |https://www.meetup.com/Shanghai-Linux-Meetup/events/237645001/
-|...            | planned topics below | tbc | open  |                   
+|...            | planned topics below | ...... | ......  |                   
 |        | nginx        | ?   | date: tbc, speaker: tbc  |
 |        | MariaDB/SQL basics  | ?   | date: tbc, speaker: tbc  |
 |        | Ansible      | Alberto Galan | speaker: confirmed, date: tbc |
