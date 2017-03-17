@@ -21,3 +21,4 @@
 |        | metasploit |  ?  | date: tbc, speaker: tbc  |
 |        | git 4 dummies | ? | date: tbc, speaker: tbc  |
 |        | tmux          | Bart | date: tbc, need 2nd topic | open   |
+|        | Building Automation Tools (Raspberry Pi)     |     | open     | (Take a look some ideas) https://opensource.com/life/16/3/5-open-source-home-automation-tools
