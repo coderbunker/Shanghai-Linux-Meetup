@@ -4,7 +4,7 @@
 | Date          | Topic         | Speaker  |Status                    | link           |
 | ------------- |:--------------|:--------:|:-------------------------|:-------------|
 | 17-04-07      | tbc           | tbc      | open                     |
-| 17-03-31      | tbc           | tbc      | open                     |
+| 17-03-31      | IoT & buiding virtual rpi's for app testing | Luc 卢老师| confirmed, need 'helping hand' | to be announced
 | 17-03-24      | Linux Containers | Alberto  | confirmed  | https://www.meetup.com/Shanghai-Linux-Meetup/events/237978511/
 | 17-03-17      | Raspberry Pi | Joe | confirmed  | https://www.meetup.com/Shanghai-Linux-Meetup/events/238234568/ 
 | 17-03-10      | pfSense      | Raul | confirmed  | https://www.meetup.com/Shanghai-Linux-Meetup/events/238109581/
