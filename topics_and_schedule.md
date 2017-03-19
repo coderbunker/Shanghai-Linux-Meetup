@@ -15,8 +15,9 @@
 |        | docker 4 dummies  | ?   | date: tbc, speaker: [Ricky]*  |
 |        | git 4 dummies | ? | date: tbc, speaker: [Ricky]*  |
 |        | Capistrano |  Anja  | date: tbc, speaker: confirmed  |
+|        | Blockchain & Smartcontracts | date: tbc, speaker: tbc (Roman is asking)  |
 |        | tmux          | Bart | date: tbc, need 2nd topic | open   |
-|        | Building Automation Tools (Raspberry Pi)     |     | open     | (Take a look some ideas) https://opensource.com/life/16/3/5-open-source-home-automation-tools
+|        | Building Automation Tools (Raspberry Pi)     |     | open     | (some ideas https://opensource.com/life/16/3/5-open-source-home-automation-tools)
 |        | metasploit |  ?  | date: tbc, speaker: tbc  |
 |        | btrfs        | ?   | date: tbc, speaker: tbc  |
 |        | owncloud     | ?   | date: tbc, speaker: tbc  |
