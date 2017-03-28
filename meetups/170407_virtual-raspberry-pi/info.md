@@ -6,6 +6,14 @@ This session is for those serious about mastering Linux, interested in IoT, clou
 
 In this hands-on co-hacking workshop, we will attempt to build a Raspberry PI ("RPI") virtual machine by compiling Linux code. We then will launch big numbers of virtual RPIs 'in the cloud' in order to simulate massive IoT application testing.
 
+Once the session is complete, participants will have learnt to:
+- compile Linux code to build a custom variant of Linux
+- prepare a virtual RPI
+- make use of the cloud to launch massive virtual "IoT" devices 
+
+After that, only your imagination will limit what you can produce with this knowledge in hand.
+
+
 ### About Prof. LU:
 
 Prof. LU's has been involved in computing for over 30 years and in Linux since its beginning.
