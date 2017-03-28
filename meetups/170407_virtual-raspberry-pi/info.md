@@ -1,6 +1,5 @@
 Coderbunker is happy to have Prof. LU again for a second time.
-We will learn about setting up virtual raspberry pi's on the cloud for IoT app testings on a larger scale.
-In order to do so we'll compile Linux packages which in bypassing enables you to break the barrier's of any distribution.
+We will learn about setting up virtual raspberry pi's on the cloud for IoT app testings on a larger scale. In order to do so we'll compile Linux packages which in bypassing enables you to break the barrier's of any distribution.
 
 About Prof. LU:
 
