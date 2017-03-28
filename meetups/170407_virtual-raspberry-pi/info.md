@@ -1,8 +1,12 @@
-Coderbunker's glad to receive Prof. LU again.
-We will learn about setting up virtual raspberry pi's on the cloud for IoT app testings on a larger scale.
-In order to do so we'll compile Linux packages which in bypassing enables you to break the barrier's of any distribution.
+### Build an Iot App testing infrasturcture with virtual Raspberry Pi's
 
-About Prof. LU:
+Coderbunker's glad to have Prof. LU again.
+
+This session is for those serious about mastering Linux, interested in IoT, cloud computing, and the Raspberry PI.
+
+In this hands-on co-hacking workshop, we will attempt to build a Raspberry PI ("RPI") virtual machine by compiling Linux code. We then will launch big numbers of virtual RPIs 'in the cloud' in order to simulate massive IoT application testing.
+
+### About Prof. LU:
 
 Prof. LU's has been involved in computing for over 30 years and in Linux since its beginning.
 
