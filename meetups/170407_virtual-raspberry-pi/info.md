@@ -1,6 +1,6 @@
 ### Build an Iot App testing infrasturcture with virtual Raspberry Pi's
 
-Coderbunker's glad to welcome back Prof. LU for another workshop in our loose Raspberry Pi/IoT series.
+Coderbunker is glad to welcome back Prof. LU for another workshop in our loose Raspberry Pi/IoT series.
 
 This session is for those serious about mastering Linux, interested in IoT, cloud computing, and the Raspberry PI.
 
