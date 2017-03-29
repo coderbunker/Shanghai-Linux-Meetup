@@ -1,6 +1,6 @@
 ### Build an IoT App testing infrasturcture with virtual Raspberry Pi's
 
-Coderbunker is glad to welcome back Prof. LU for another workshop in our loose Raspberry Pi/IoT series.
+Coderbunker is exited to welcome Prof. LU again for another workshop in our loose Raspberry Pi/IoT series.
 
 This session is for those serious about mastering Linux, interested in IoT, cloud computing, and the Raspberry PI.
 
@@ -18,11 +18,11 @@ After that, only your imagination will limit what you can produce with this know
 
 Prof. LU's has been involved in computing for over 30 years and in Linux since its beginning.
 
-As part of several positions in big-name IT players, he has led the implementation of ISO standards related to IT security , taught about IT management in MBA classes , and led IT related businesses in Europe and China.
+As part of several positions in big-name IT players, he has led the implementation of ISO standards related to IT security,  taught about IT management in MBA classes, and led IT related businesses in Europe and China.
 
-Engineer, academic, businessman, and entrepreneur, he can provide the right balance of applied tech and business expertise and recommendations to help you succeed in your tech entrepreneurship.
+Engineer, academic, businessman and entrepreneur, he can provide the right balance of applied tech- and business expertise and recommendations to help you succeed in your tech entrepreneurship.
 
-Along his career, Prof. LU has travelled over 5 continent and learnt 5 languages.
+Along his career, Prof. LU has travelled over 5 continent and learned 5 languages while doing so (the workshop is being held in English with a slight french accent).
 
 ..................................................................
 
