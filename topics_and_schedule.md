@@ -3,9 +3,11 @@
 
 | Date          | Topic         | Speaker  |Status                    | link           |
 | ------------- |:--------------|:--------:|:-------------------------|:-------------|
+| 17-04-21      | tbc           | tbc      | open                     |
+| 17-04-28      | tbc           | tbc      | open                     |
 | 17-04-14      | tbc           | tbc      | open                     |
-| 17-04-07      | tbc           | tbc      | open                     |
-| 17-03-31      | IoT & building virtual rpi's for app testing | Luc 卢老师| confirmed, need 'helping hand' | to be announced
+| 17-04-07      | Build an IoT App testing infrastructure with virtual Raspberry Pi's | Luc 卢老师| confirmed, need 'helping hand' | https://www.meetup.com/Shanghai-Linux-Meetup/events/238791260/
+| 17-03-31      |Practical Hacking with Raspberry Pi | Nelson | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238764041/
 | 17-03-24      | Linux Containers | Alberto  | confirmed  | https://www.meetup.com/Shanghai-Linux-Meetup/events/237978511/
 |...            | planned topics below | ...... | ......  |                   
 |        | nginx        | ?   | date: tbc, speaker: [Ricky]* |
