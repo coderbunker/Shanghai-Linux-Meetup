@@ -8,7 +8,6 @@
 | 17-04-14      | tbc           | tbc      | open                     |
 | 17-04-07      | Build an IoT App testing infrastructure with virtual Raspberry Pi's | Luc 卢老师| confirmed, need 'helping hand' | https://www.meetup.com/Shanghai-Linux-Meetup/events/238791260/
 | 17-03-31      |Practical Hacking with Raspberry Pi | Nelson | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238764041/
-| 17-03-24      | Linux Containers | Alberto  | confirmed  | https://www.meetup.com/Shanghai-Linux-Meetup/events/237978511/
 |...            | planned topics below | ...... | ......  |                   
 |        | nginx        | ?   | date: tbc, speaker: [Ricky]* |
 |        | MariaDB/SQL basics  | ?   | date: tbc, speaker: [Ricky]*  |
@@ -24,6 +23,7 @@
 |        | btrfs        | ?   | date: tbc, speaker: tbc  |
 |        | owncloud     | ?   | date: tbc, speaker: tbc  |
 |...     | help Meetupups below     | ...    | ...     |...
+| 17-03-24      | Linux Containers | Alberto  | done, to be continued | https://www.meetup.com/Shanghai-Linux-Meetup/events/237978511/
 | 17-03-17      | Raspberry Pi | Joe | done  | https://www.meetup.com/Shanghai-Linux-Meetup/events/238234568/
 | 17-03-10      | pfSense      | Raul | done  | https://www.meetup.com/Shanghai-Linux-Meetup/events/238109581/
 | 17-03-03      | the ABCDE of securing a server | Luc | done, fabulous | https://www.meetup.com/Shanghai-Linux-Meetup/events/237752035/
