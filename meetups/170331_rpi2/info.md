@@ -1,4 +1,4 @@
-###Nelson
+### Nelson 
 _Raspberry Pi wizzard_
 
 Nelson Zhang is an engineer specializing in embedded architecture and circuit design, manufacturing, and taking products to market. He has previously worked at Amazon, Xinchejian, and Leap Motion, and for the past 3 years has served as cofounder and CEO of a smart bluetooth headphone startup. Before dropping out of UC Berkeley to take the Thiel Fellowship, he also founded Hackers@Berkeley and ran various hackathons, workshops, and industry talks. He spends his free time on indie films, electric guitar, and metalworking.
