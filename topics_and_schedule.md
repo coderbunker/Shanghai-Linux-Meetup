@@ -3,11 +3,11 @@
 
 | Date          | Topic         | Speaker  |Status                    | link           |
 | ------------- |:--------------|:--------:|:-------------------------|:-------------|
-| 17-04-21      | tbc           | tbc      | open                     |
+| 17-05-05      | tbc           | tbc      | open                     |
 | 17-04-28      | tbc           | tbc      | open                     |
-| 17-04-14      | SQL basics with PostgreSQL  | Ricky   | confirmed   |  to be announced yet |
-| 17-04-07      | Build an IoT App testing infrastructure with virtual Raspberry Pi's | Luc 卢老师| confirmed, need 'helping hand' | https://www.meetup.com/Shanghai-Linux-Meetup/events/238791260/
-| 17-03-31      |Practical Hacking with Raspberry Pi | Nelson | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238764041/
+| 17-04-21      | SQL basics with PostgreSQL  | Ricky   | confirmed   |  to be announced yet |
+| 17-04-14      |Practical Hacking with Raspberry Pi | Nelson | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238764041/
+| https://www.meetup.com/Shanghai-Linux-Meetup/events/238791260/
 |...            | planned topics below | ...... | ......  |                   
 |        | nginx        | ?   | date: tbc, speaker: [Ricky]* |
 |        | Ansible      | Alberto Galan | speaker: confirmed, date: tbc |
@@ -22,6 +22,7 @@
 |        | btrfs        | ?   | date: tbc, speaker: tbc  |
 |        | owncloud     | ?   | date: tbc, speaker: tbc  |
 |...     | help Meetupups below     | ...    | ...     |...
+| 17-04-07      | Build an IoT App testing infrastructure with virtual Raspberry Pi's | Luc 卢老师| confirmed, need 'helping hand' | 17-03-31      |Practical Hacking with Raspberry Pi | Nelson | CANCELLED | 
 | 17-03-24      | Linux Containers | Alberto  | done, to be continued | https://www.meetup.com/Shanghai-Linux-Meetup/events/237978511/
 | 17-03-17      | Raspberry Pi | Joe | done  | https://www.meetup.com/Shanghai-Linux-Meetup/events/238234568/
 | 17-03-10      | pfSense      | Raul | done  | https://www.meetup.com/Shanghai-Linux-Meetup/events/238109581/
