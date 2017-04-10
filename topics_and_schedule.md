@@ -3,11 +3,11 @@
 
 | Date          | Topic         | Speaker  |Status                    | link           |
 | ------------- |:--------------|:--------:|:-------------------------|:-------------|
+| 17-05-12      | tbc           | tbc      | open                     |
 | 17-05-05      | tbc           | tbc      | open                     |
 | 17-04-28      | tbc           | tbc      | open                     |
-| 17-04-21      | SQL basics with PostgreSQL  | Ricky   | confirmed   |  to be announced yet |
-| 17-04-14      |Practical Hacking with Raspberry Pi | Nelson | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238764041/
-| https://www.meetup.com/Shanghai-Linux-Meetup/events/238791260/
+| 17-04-21      | SQL basics with PostgreSQL  | Ricky   | confirmed   |  https://www.meetup.com/Shanghai-Linux-Meetup/events/238868704/
+| 17-04-14      |Practical Hacking with Raspberry Pi | Nelson | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238851659/
 |...            | planned topics below | ...... | ......  |                   
 |        | nginx        | ?   | date: tbc, speaker: [Ricky]* |
 |        | Ansible      | Alberto Galan | speaker: confirmed, date: tbc |
