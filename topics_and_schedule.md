@@ -3,29 +3,31 @@
 
 | Date          | Topic         | Speaker  |Status                    | link           |
 | ------------- |:--------------|:--------:|:-------------------------|:-------------|
+| 17-05-26      | tbc           | tbc      | open                     |
+| 17-05-19      | tbc           | tbc      | open                     |
 | 17-05-12      | tbc           | tbc      | open                     |
-| 17-05-05      | tbc           | tbc      | open                     |
-| 17-04-28      | tbc           | tbc      | open                     |
-| 17-04-21      | SQL basics with PostgreSQL  | Ricky   | confirmed   |  https://www.meetup.com/Shanghai-Linux-Meetup/events/238868704/
-| 17-04-14      |Practical Hacking with Raspberry Pi | Nelson | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238851659/
+| 17-05-05      | SQL basics with PostgreSQL  | Ricky   | confirmed   |  https://www.meetup.com/Shanghai-Linux-Meetup/events/238868704/
+| 17-04-28      | no session on the 28th | ---      | ---                     |
 |...            | planned topics below | ...... | ......  |                   
+|        | Capistrano |  Anja  | date: tbc, speaker: confirmed  |
 |        | nginx        | ?   | date: tbc, speaker: [Ricky]* |
 |        | Ansible      | Alberto Galan | speaker: confirmed, date: tbc |
-|        | Android Security / LineageOS ?  | ?   | date: tbc, speaker: (Lukas?)  |
+|        | Android Security/LineageOS ?  | ?   | date: tbc, speaker: (Lukas?)  |
 |        | docker 4 dummies  | ?   | date: tbc, speaker: [Ricky]*  |
 |        | git 4 dummies | ? | date: tbc, speaker: [Ricky]*  |
-|        | Capistrano |  Anja  | date: tbc, speaker: confirmed  |
 |        | Blockchain & Smartcontracts | date: tbc, speaker: tbc (Roman is asking)  |
 |        | tmux          | Bart | date: tbc, need 2nd topic | open   |
 |        | Building Automation Tools (Raspberry Pi)     |     | open     | (some ideas https://opensource.com/life/16/3/5-open-source-home-automation-tools)
 |        | metasploit |  ?  | date: tbc, speaker: tbc  |
 |        | btrfs        | ?   | date: tbc, speaker: tbc  |
 |        | owncloud     | ?   | date: tbc, speaker: tbc  |
-|...     | help Meetupups below     | ...    | ...     |...
+|...     | held Meetupups below     | ...    | ...     |...
+| 17-04-21      | Build an IoT App testing infrastructure with virtual Raspberry Pi's (continued) | Luc 卢老师|
+| 17-04-14      |Practical Hacking with Raspberry Pi | Nelson | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238851659/
 | 17-04-07      | Build an IoT App testing infrastructure with virtual Raspberry Pi's | Luc 卢老师| confirmed, need 'helping hand' | 17-03-31      |Practical Hacking with Raspberry Pi | Nelson | CANCELLED | 
 | 17-03-24      | Linux Containers | Alberto  | done, to be continued | https://www.meetup.com/Shanghai-Linux-Meetup/events/237978511/
 | 17-03-17      | Raspberry Pi | Joe | done  | https://www.meetup.com/Shanghai-Linux-Meetup/events/238234568/
-| 17-03-10      | pfSense      | Raul | done  | https://www.meetup.com/Shanghai-Linux-Meetup/events/238109581/
+| 17-03-10      | pfSense      | Raul | done  | https://www.meetup.com/Shanghai-Linux-Meetup/events/238109581/(continued) 
 | 17-03-03      | the ABCDE of securing a server | Luc | done, fabulous | https://www.meetup.com/Shanghai-Linux-Meetup/events/237752035/
 | 17-02-24      | Streisand     | Lukas    | done, awesome     |https://www.meetup.com/Shanghai-Linux-Meetup/events/237645001/
 
