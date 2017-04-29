@@ -31,4 +31,4 @@
 | 17-03-03      | the ABCDE of securing a server | Luc | done, fabulous | https://www.meetup.com/Shanghai-Linux-Meetup/events/237752035/
 | 17-02-24      | Streisand     | Lukas    | done, awesome     |https://www.meetup.com/Shanghai-Linux-Meetup/events/237645001/
 
-* could be done by Ricky as a fallback but other speakers are welcome to deliver
+topics with Speaker [Ricky]* can be done by Ricky as a fallback but other speakers are welcome to deliver
