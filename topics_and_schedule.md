@@ -1,4 +1,4 @@
-#Schedule and topics
+# Schedule and topics
 
 
 | Date          | Topic         | Speaker  |Status                    | link           |
