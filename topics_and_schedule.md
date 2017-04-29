@@ -4,11 +4,12 @@
 | Date          | Topic         | Speaker  |Status                    | link           |
 | ------------- |:--------------|:--------:|:-------------------------|:-------------|
 | 17-05-26      | tbc           | tbc      | open                     |
-| 17-05-19      | Capistrano    |  Anja    | confirmed                | not published yet
+| 17-05-19      | tbc           | tbc      | open                     |
 | 17-05-12      | tbc           | tbc      | open                     |
 | 17-05-05      | SQL basics with PostgreSQL  | Ricky   | confirmed   |  https://www.meetup.com/Shanghai-Linux-Meetup/events/238868704/
 | 17-04-28      | no session on the 28th | ---      | ---                     |
 |...            | planned topics below | ...... | ......  |                   
+|        | Capistrano    |  Anja    | date: tbc                | not published yet
 |        | nginx        | ?   | date: tbc, speaker: [Ricky]* |
 |        | Ansible      | Alberto Galan | speaker: confirmed, date: tbc |
 |        | Android Security/LineageOS ?  | ?   | date: tbc, speaker: (Lukas?)  |
