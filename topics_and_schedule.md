@@ -3,16 +3,17 @@
 
 | Date          | Topic         | Speaker  |Status                    | link           |
 | ------------- |:--------------|:--------:|:-------------------------|:-------------|
+| 17-06-02      | tbc           | tbc      | open                     |
 | 17-05-26      | tbc           | tbc      | open                     |
 | 17-05-19      | tbc           | tbc      | open                     |
-| 17-05-12      | get going with **btrfs** | Lukas   | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/239708881/
+| 17-05-12      | get going with **Btrfs** | Lukas   | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/239708881/
 | 17-05-05      | SQL basics with PostgreSQL | Ricky | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238868704/
 | 17-04-28      | no session on the 28th | ---      | ---                     |
 |...            | planned topics below | ...... | ......  |                   
 |        | Capistrano    |  Anja    | date: tbc                | not published yet
 |        | nginx        | ?   | date: tbc, speaker: [Ricky]* |
 |        | Ansible      | Alberto Galan | speaker: confirmed, date: tbc |
-|        | Android Security/LineageOS ?  | ?   | date: tbc, speaker: (Lukas?)  |
+|        | Android Security/LineageOS ?  | ?   | date: tbc, speaker: tbc |
 |        | docker 4 dummies  | ?   | date: tbc, speaker: [Ricky]*  |
 |        | git 4 dummies | ? | date: tbc, speaker: [Ricky]*  |
 |        | Blockchain & Smartcontracts | date: tbc, speaker: tbc (Roman is asking)  |
