@@ -19,7 +19,6 @@
 |        | tmux          | Bart | date: tbc, need 2nd topic | open   |
 |        | Building Automation Tools (Raspberry Pi)     |     | open     | (some ideas https://opensource.com/life/16/3/5-open-source-home-automation-tools)
 |        | metasploit |  ?  | date: tbc, speaker: tbc  |
-|        | btrfs        | ?   | date: tbc, speaker: tbc  |
 |        | owncloud     | ?   | date: tbc, speaker: tbc  |
 |...     | held Meetupups below     | ...    | ...     |...
 | 17-05-12      | get going with **Btrfs** | Lukas   | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events
