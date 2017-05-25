@@ -3,16 +3,15 @@
 
 | Date          | Topic         | Speaker  |Status                    | link           |
 | ------------- |:--------------|:--------:|:-------------------------|:-------------|
-| 17-06-02      | tbc           | tbc      | open                     |
-| 17-05-26      | tbc           | tbc      | open                     |
-| 17-05-19      | tbc           | tbc      | open                     |
-| 17-05-12      | get going with **Btrfs** | Lukas   | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/239708881/
-| 17-05-05      | SQL basics with PostgreSQL | Ricky | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238868704/
+| 17-06-30      | tbc           | tbc      | open           | not published yet
+| 17-06-23      | tbc           | tbc      | open           | not published yet
+| 17-06-16      | tbc           | tbc      | open           | not published yet
+| 17-06-09      | tbc           | Ricky (?) | open           | not published yet
+| 17-06-02      | Ansible       | Alberto Galan | confirmed           | https://www.meetup.com/Shanghai-Linux-Meetup/events/240131253/
 | 17-04-28      | no session on the 28th | ---      | ---                     |
 |...            | planned topics below | ...... | ......  |                   
 |        | Capistrano    |  Anja    | date: tbc                | not published yet
 |        | nginx        | ?   | date: tbc, speaker: [Ricky]* |
-|        | Ansible      | Alberto Galan | speaker: confirmed, date: tbc |
 |        | Android Security/LineageOS ?  | ?   | date: tbc, speaker: tbc |
 |        | docker 4 dummies  | ?   | date: tbc, speaker: [Ricky]*  |
 |        | git 4 dummies | ? | date: tbc, speaker: [Ricky]*  |
@@ -23,6 +22,8 @@
 |        | btrfs        | ?   | date: tbc, speaker: tbc  |
 |        | owncloud     | ?   | date: tbc, speaker: tbc  |
 |...     | held Meetupups below     | ...    | ...     |...
+| 17-05-12      | get going with **Btrfs** | Lukas   | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events
+| 17-05-05      | SQL basics with PostgreSQL | Ricky | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238868704/
 | 17-04-21      | Build an IoT App testing infrastructure with virtual Raspberry Pi's (continued) | Luc 卢老师|
 | 17-04-14      |Practical Hacking with Raspberry Pi | Nelson | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238851659/
 | 17-04-07      | Build an IoT App testing infrastructure with virtual Raspberry Pi's | Luc 卢老师| confirmed, need 'helping hand' | 17-03-31      |Practical Hacking with Raspberry Pi | Nelson | CANCELLED | 
