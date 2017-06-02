@@ -1,10 +1,10 @@
 
 http://docs.ansible.com/ansible/intro_installation.html
 
-$ sudo apt-get install software-properties-common
-$ sudo apt-add-repository ppa:ansible/ansible
-$ sudo apt-get update
-$ sudo apt-get install ansible
+    $ sudo apt-get install software-properties-common
+    $ sudo apt-add-repository ppa:ansible/ansible
+    $ sudo apt-get update
+    $ sudo apt-get install ansible
 
 script connect with a new server
 
@@ -12,10 +12,10 @@ script connect with a new server
 server=$1
 ssh-copy-id  root@$server
 # ssh-copy-id  agalan@$server
-ssh root@$server  "apt-get update;apt-get install python-simplejson"
-ssh root@$server "echo '#add to deploy with ansible' >> /etc/sudoers"
-ssh root@$server "echo '%sudo ALL=NOPASSWD:ALL' >> /etc/sudoers "
-ssh root@$server "echo '%agalan ALL=NOPASSWD:ALL' >> /etc/sudoers "
+    ssh root@$server  "apt-get update;apt-get install python-simplejson"
+    ssh root@$server "echo '#add to deploy with ansible' >> /etc/sudoers"
+    ssh root@$server "echo '%sudo ALL=NOPASSWD:ALL' >> /etc/sudoers "
+    ssh root@$server "echo '%agalan ALL=NOPASSWD:ALL' >> /etc/sudoers "
 
 [Click and drag to move]
 install minimal packages
