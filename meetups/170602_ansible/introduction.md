@@ -28,7 +28,7 @@ ansible desks --sudo -m raw -a "apt install -y python python-simplejson"
 ssh-copy-id user@domain
 
 
-Create a simple project to start
+###Create a simple project to start
 
 mkdir -p project
 
