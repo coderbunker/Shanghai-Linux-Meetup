@@ -6,12 +6,12 @@ http://docs.ansible.com/ansible/intro_installation.html
     $ sudo apt-get update
     $ sudo apt-get install ansible
 
-script connect with a new server
+### script connect with a new server
 
-#!/bin/bash
-server=$1
-ssh-copy-id  root@$server
-# ssh-copy-id  agalan@$server
+    #!/bin/bash 
+    server=$1
+    ssh-copy-id  root@$server
+    ssh-copy-id  user@$server
     ssh root@$server  "apt-get update;apt-get install python-simplejson"
     ssh root@$server "echo '#add to deploy with ansible' >> /etc/sudoers"
     ssh root@$server "echo '%sudo ALL=NOPASSWD:ALL' >> /etc/sudoers "
