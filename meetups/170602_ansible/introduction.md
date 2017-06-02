@@ -1,4 +1,18 @@
 
+
+
+### Think three examples why is useful this tool
+
+### In your business how many times per week/year you need :
+- setup a computer/server
+- maintain servers
+- doing the same task , copying files, installing programs, scripts
+- you don't remember how to setup , 
+- you don't remember what is in side of a server
+- one guy left your company that was in charge to maintain , now you are, you dont know what he did
+
+
+
 http://docs.ansible.com/ansible/intro_installation.html
 
     $ sudo apt-get install software-properties-common
