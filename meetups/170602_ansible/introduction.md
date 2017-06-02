@@ -17,8 +17,7 @@ ssh-copy-id  root@$server
     ssh root@$server "echo '%sudo ALL=NOPASSWD:ALL' >> /etc/sudoers "
     ssh root@$server "echo '%agalan ALL=NOPASSWD:ALL' >> /etc/sudoers "
 
-[Click and drag to move]
-install minimal packages
+### install minimal packages
 
 ansible myhost --sudo -m raw -a "yum install -y python python-simplejson"
 
@@ -28,7 +27,7 @@ ansible desks --sudo -m raw -a "apt install -y python python-simplejson"
 ssh-copy-id user@domain
 
 
-###Create a simple project to start
+### Create a simple project to start
 
 mkdir -p project
 
@@ -37,7 +36,7 @@ cd project
 ansible-playbook
 
 
-test that is responding
+### test that is responding
 
 ansible host -m ping
 
@@ -45,21 +44,21 @@ project structure
 
 http://docs.ansible.com/ansible/playbooks_best_practices.html#directory-layout
 
-Create inventory
+### Create inventory
 
 http://docs.ansible.com/ansible/intro_inventory.html
 create a simple the playbook
 
-run the playbook
+#### run the playbook
 
 ansible-playbook -i inventory playbook.yml
 
 
-create a role
+### create a role
 
 run the playbook with a role
 
-Questions  ??
+### Questions  ??
 
 
 
