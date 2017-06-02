@@ -1,5 +1,5 @@
 
-
+## be ready with a linux machine with ssh access/ remote in the cloud or in your computer
 
 ### Think three examples why is useful this tool
 
