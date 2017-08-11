@@ -19,7 +19,7 @@
 |        | tmux          | Bart | date: tbc, need 2nd topic | open   |
 |        | Building Automation Tools (Raspberry Pi)     |     | open     | (some ideas https://opensource.com/life/16/3/5-open-source-home-automation-tools)
 |        | metasploit |  ?  | date: tbc, speaker: tbc  |
-| nextcloud     | ?   | date: tbc, speaker: tbc  |
+|        | nextcloud  | ?   | date: tbc, speaker: tbc  |
 |        |            |     |                    |
 |...     | held Meetupups below  | ...    | ...     |...
 |         |                      |        |         |
