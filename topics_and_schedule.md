@@ -6,10 +6,11 @@
 | 17-09-22      | tbc           | tbc      | open           | not published yet
 | 17-09-08      | tbc           | tbc      | open           | not published yet
 | 17-08-25      | rear (relax-and-restore)   | Luc      | confirmed      | not published yet
-| 17-06-02      | Ansible       | Alberto Galan | confirmed           | https://www.meetup.com/Shanghai-Linux-Meetup/events/240131253/
-| 17-04-28      | no session on the 28th | ---      | ---                     |
 |...            | planned topics below | ...... | ......  |                   
 |        | Capistrano    |  Anja    | date: tbc                | not published yet
+|        | Streisand recap |  Nick Clarke  | date: tbc, speaker: tbc  |
+|        | snap, snapd |  ?  | date: tbc, speaker: tbc  |
+|        | Algo |  ?  | date: tbc, speaker: tbc  |
 |        | nginx        | ?   | date: tbc, speaker: [Ricky]* |
 |        | Android Security/LineageOS ?  | ?   | date: tbc, speaker: tbc |
 |        | docker 4 dummies  | ?   | date: tbc, speaker: [Ricky]*  |
@@ -17,14 +18,12 @@
 |        | Blockchain & Smartcontracts | date: tbc, speaker: tbc (Roman is asking)  |
 |        | tmux          | Bart | date: tbc, need 2nd topic | open   |
 |        | Building Automation Tools (Raspberry Pi)     |     | open     | (some ideas https://opensource.com/life/16/3/5-open-source-home-automation-tools)
-|        |            |     |                          |
-|        | snap, snapd |  ?  | date: tbc, speaker: tbc  |
-|        | Streisand recap |  Nick Clarke  | date: tbc, speaker: tbc  |
-|        | Algo |  ?  | date: tbc, speaker: tbc  |
 |        | metasploit |  ?  | date: tbc, speaker: tbc  |
 | nextcloud     | ?   | date: tbc, speaker: tbc  |
 |        |            |     |                    |
-|...     | held Meetupups below     | ...    | ...     |...
+|...     | held Meetupups below  | ...    | ...     |...
+|         |                      |        |         |
+| 17-06-02      | Ansible       | Alberto Galan | confirmed           | https://www.meetup.com/Shanghai-Linux-Meetup/events/240131253/
 | 17-05-12      | get going with **Btrfs** | Lukas   | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events
 | 17-05-05      | SQL basics with PostgreSQL | Ricky | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238868704/
 | 17-04-21      | Build an IoT App testing infrastructure with virtual Raspberry Pi's (continued) | Luc 卢老师|
