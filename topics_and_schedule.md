@@ -3,10 +3,9 @@
 
 | Date          | Topic         | Speaker  |Status                    | link           |
 | ------------- |:--------------|:--------:|:-------------------------|:-------------|
-| 17-06-30      | tbc           | tbc      | open           | not published yet
-| 17-06-23      | tbc           | tbc      | open           | not published yet
-| 17-06-16      | tbc           | tbc      | open           | not published yet
-| 17-06-09      | tbc           | Ricky (?) | open           | not published yet
+| 17-09-22      | tbc           | tbc      | open           | not published yet
+| 17-09-08      | tbc           | tbc      | open           | not published yet
+| 17-08-25      | rear (relax-and-restore)   | Luc      | confirmed      | not published yet
 | 17-06-02      | Ansible       | Alberto Galan | confirmed           | https://www.meetup.com/Shanghai-Linux-Meetup/events/240131253/
 | 17-04-28      | no session on the 28th | ---      | ---                     |
 |...            | planned topics below | ...... | ......  |                   
