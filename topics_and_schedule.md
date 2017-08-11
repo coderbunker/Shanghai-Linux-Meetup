@@ -17,8 +17,13 @@
 |        | Blockchain & Smartcontracts | date: tbc, speaker: tbc (Roman is asking)  |
 |        | tmux          | Bart | date: tbc, need 2nd topic | open   |
 |        | Building Automation Tools (Raspberry Pi)     |     | open     | (some ideas https://opensource.com/life/16/3/5-open-source-home-automation-tools)
+|        |            |     |                          |
+|        | snap, snapd |  ?  | date: tbc, speaker: tbc  |
+|        | Streisand recap |  Nick Clarke  | date: tbc, speaker: tbc  |
+|        | Algo |  ?  | date: tbc, speaker: tbc  |
 |        | metasploit |  ?  | date: tbc, speaker: tbc  |
-|        | owncloud     | ?   | date: tbc, speaker: tbc  |
+| nextcloud     | ?   | date: tbc, speaker: tbc  |
+|        |            |     |                    |
 |...     | held Meetupups below     | ...    | ...     |...
 | 17-05-12      | get going with **Btrfs** | Lukas   | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events
 | 17-05-05      | SQL basics with PostgreSQL | Ricky | confirmed | https://www.meetup.com/Shanghai-Linux-Meetup/events/238868704/
