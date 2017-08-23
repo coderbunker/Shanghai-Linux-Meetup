@@ -1,13 +1,12 @@
 # Schedule and topics
 
 
-| Date          | Topic         | Speaker  |Status                    | link           |
-| ------------- |:--------------|:--------:|:-------------------------|:-------------|
+| Date          | Topic         | Speaker  |Status                  | link         |
+|:------------- |:--------------|:---------|:-----------------------|:-------------|
 | 17-09-22      | tbc           | tbc      | open           | not published yet
 | 17-09-08      | tbc           | tbc      | open           | not published yet
-| 17-08-25      | rear (relax-and-restore)   | Luc      | confirmed      | not published yet
+| 17-08-25      | ReaR (relax-and-restore)   | Luc      | confirmed      | https://www.meetup.com/Shanghai-Linux-Meetup/events/242531093/ |
 |...            | planned topics below | ...... | ......  |                   
-|        | Capistrano    |  Anja    | date: tbc                | not published yet
 |        | Streisand recap |  Nick Clarke  | date: tbc, speaker: tbc  |
 |        | snap, snapd |  ?  | date: tbc, speaker: tbc  |
 |        | Algo |  ?  | date: tbc, speaker: tbc  |
